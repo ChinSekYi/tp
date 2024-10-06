@@ -7,12 +7,10 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
+        "hastuti-hera-hardiyanti": "Hastuti HERA Hardiyanti",
         "hans-neddyanto-tandjung": "Hans Neddyanto Tandjung",
         "chin-sek-yi": "Chin Sek Yi",
-        "vicelya-visakha": "Vicelya Visakha",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "vicelya-visakha": "Vicelya Visakha"
       },
       "headingKeywords": {}
     },
@@ -58,7 +56,7 @@
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
         "user-stories": "User stories",
-        "use-cases": "Use cases",
+        "use-cases": "Use Cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
