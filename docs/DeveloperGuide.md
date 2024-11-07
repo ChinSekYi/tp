@@ -245,7 +245,7 @@ The following activity diagram summarizes what happens when a user executes a ne
 
 <puml src="diagrams/CommitActivityDiagram.puml" width="250" />
 
-#### Design considerations: 
+#### Design considerations:
 
 **Aspect: How undo & redo executes:**
 
