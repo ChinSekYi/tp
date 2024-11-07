@@ -1,0 +1,31 @@
+{
+  "persons" : [ {
+    "name" : "JOHN DOE",
+    "phone" : "98765432",
+    "email" : "enejf@g.com",
+    "jobCode" : "SWE2024",
+    "tag" : "N",
+    "remark" : "part-time only"
+  }, {
+    "name" : "JOHN DOE",
+    "phone" : "987654",
+    "email" : "dgjn@co.cw",
+    "jobCode" : "SWE2024",
+    "tag" : "N",
+    "remark" : "part-time only"
+  }, {
+    "name" : "JOHN DOE",
+    "phone" : "999",
+    "email" : "jo@example.com",
+    "jobCode" : "SWE2024",
+    "tag" : "A",
+    "remark" : "part-time only"
+  }, {
+    "name" : "MOM DOE",
+    "phone" : "567",
+    "email" : "johnd@e.co",
+    "jobCode" : "SWE2024",
+    "tag" : "N",
+    "remark" : "part-time only"
+  } ]
+}
